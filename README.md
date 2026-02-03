@@ -2,10 +2,8 @@
 
 https://github.com/user-attachments/assets/70800a84-d738-47c4-b971-c381ff8b54ec
 
-on-YOLOv8 
 
-**Author:** Muhammad Faizaan  
-
+  
 ## 🔹 About
 This project implements **enhanced small object detection using YOLOv8**, targeting objects smaller than 32x32 pixels.  
 It provides **training, validation, and CLI-based inference scripts** along with a **sample video** to test the model.
